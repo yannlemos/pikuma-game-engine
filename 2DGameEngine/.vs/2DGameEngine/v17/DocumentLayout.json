@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\yannd\\Documents\\pikuma-game-engine\\2DGameEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{513E768D-093C-4B09-B4B1-CBC380C45F0B}|2DGameEngine\\2DGameEngine.vcxproj|C:\\Users\\yannd\\Documents\\pikuma-game-engine\\2DGameEngine\\2DGameEngine\\libs\\glm\\detail\\glm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{513E768D-093C-4B09-B4B1-CBC380C45F0B}|2DGameEngine\\2DGameEngine.vcxproj|solutionrelative:2DGameEngine\\libs\\glm\\detail\\glm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{513E768D-093C-4B09-B4B1-CBC380C45F0B}|2DGameEngine\\2DGameEngine.vcxproj|C:\\Users\\yannd\\Documents\\pikuma-game-engine\\2DGameEngine\\2DGameEngine\\src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{513E768D-093C-4B09-B4B1-CBC380C45F0B}|2DGameEngine\\2DGameEngine.vcxproj|solutionrelative:2DGameEngine\\src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -26,24 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "glm.cpp",
-              "DocumentMoniker": "C:\\Users\\yannd\\Documents\\pikuma-game-engine\\2DGameEngine\\2DGameEngine\\libs\\glm\\detail\\glm.cpp",
-              "RelativeDocumentMoniker": "2DGameEngine\\libs\\glm\\detail\\glm.cpp",
-              "ToolTip": "C:\\Users\\yannd\\Documents\\pikuma-game-engine\\2DGameEngine\\2DGameEngine\\libs\\glm\\detail\\glm.cpp",
-              "RelativeToolTip": "2DGameEngine\\libs\\glm\\detail\\glm.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-10T17:32:31.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\yannd\\Documents\\pikuma-game-engine\\2DGameEngine\\2DGameEngine\\src\\Main.cpp",
               "RelativeDocumentMoniker": "2DGameEngine\\src\\Main.cpp",
@@ -51,17 +34,18 @@
               "RelativeToolTip": "2DGameEngine\\src\\Main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-05T18:18:02.341Z"
+              "WhenOpened": "2024-06-05T18:18:02.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\yannd\\Documents\\pikuma-game-engine\\2DGameEngine\\2DGameEngine\\src\\Game.cpp",
               "RelativeDocumentMoniker": "2DGameEngine\\src\\Game.cpp",
               "ToolTip": "C:\\Users\\yannd\\Documents\\pikuma-game-engine\\2DGameEngine\\2DGameEngine\\src\\Game.cpp",
               "RelativeToolTip": "2DGameEngine\\src\\Game.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAXAAAA",
+              "ViewState": "AQIAAGsAAAAAAAAAAADwv38AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-05T18:14:28.973Z",
               "EditorCaption": ""
@@ -74,13 +58,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\yannd\\Documents\\pikuma-game-engine\\2DGameEngine\\2DGameEngine\\src\\Game.h",
               "RelativeDocumentMoniker": "2DGameEngine\\src\\Game.h",
               "ToolTip": "C:\\Users\\yannd\\Documents\\pikuma-game-engine\\2DGameEngine\\2DGameEngine\\src\\Game.h",
               "RelativeToolTip": "2DGameEngine\\src\\Game.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-05T18:09:54.697Z",
               "EditorCaption": ""
