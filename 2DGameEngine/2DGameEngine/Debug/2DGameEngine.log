@@ -1,12 +1,14 @@
 ﻿  Game.cpp
-C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(118,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
-C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(118,39): warning C4244:         with
-C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(118,39): warning C4244:         [
-C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(118,39): warning C4244:             T=float
-C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(118,39): warning C4244:         ]
 C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(119,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
 C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(119,39): warning C4244:         with
 C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(119,39): warning C4244:         [
 C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(119,39): warning C4244:             T=float
 C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(119,39): warning C4244:         ]
+C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(120,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(120,39): warning C4244:         with
+C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(120,39): warning C4244:         [
+C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(120,39): warning C4244:             T=float
+C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp(120,39): warning C4244:         ]
+  Logger.cpp
+  Generating Code...
   2DGameEngine.vcxproj -> C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\Debug\2DGameEngine.exe
