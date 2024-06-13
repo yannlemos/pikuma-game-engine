@@ -4,6 +4,6 @@ C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\libs\imgui
 C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\libs\imgui\imgui_draw.cpp;C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\Debug\imgui_draw.obj
 C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\libs\imgui\imgui_sdl.cpp;C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\Debug\imgui_sdl.obj
 C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\libs\imgui\imgui_widgets.cpp;C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\Debug\imgui_widgets.obj
-C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game.cpp;C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\Debug\Game.obj
-C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Logger.cpp;C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\Debug\Logger.obj
+C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Game\Game.cpp;C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\Debug\Game.obj
+C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Logger\Logger.cpp;C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\Debug\Logger.obj
 C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\src\Main.cpp;C:\Users\yannd\Documents\pikuma-game-engine\2DGameEngine\2DGameEngine\Debug\Main.obj

@@ -392,10 +392,15 @@
     <ClInclude Include="libs\lua\luaconf.h" />
     <ClInclude Include="libs\lua\lualib.h" />
     <ClInclude Include="libs\sol\sol.hpp" />
-    <ClInclude Include="src\Game.h" />
-    <ClInclude Include="src\Logger.h" />
+    <ClInclude Include="src\Game\Game.h" />
+    <ClInclude Include="src\Logger\Logger.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="libavif-16.dll" />
+    <None Include="libgme.dll" />
+    <None Include="libogg-0.dll" />
+    <None Include="libopus-0.dll" />
+    <None Include="libopusfile-0.dll" />
     <None Include="libs\glm\detail\func_common.inl" />
     <None Include="libs\glm\detail\func_common_simd.inl" />
     <None Include="libs\glm\detail\func_exponential.inl" />
@@ -528,6 +533,16 @@
     <None Include="libs\glm\gtx\vector_angle.inl" />
     <None Include="libs\glm\gtx\vector_query.inl" />
     <None Include="libs\glm\gtx\wrap.inl" />
+    <None Include="libtiff-5.dll" />
+    <None Include="libwavpack-1.dll" />
+    <None Include="libwebp-7.dll" />
+    <None Include="libwebpdemux-2.dll" />
+    <None Include="libxmp.dll" />
+    <None Include="lua53.dll" />
+    <None Include="SDL2.dll" />
+    <None Include="SDL2_image.dll" />
+    <None Include="SDL2_mixer.dll" />
+    <None Include="SDL2_ttf.dll" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="libs\glm\detail\glm.cpp" />
@@ -536,8 +551,8 @@
     <ClCompile Include="libs\imgui\imgui_draw.cpp" />
     <ClCompile Include="libs\imgui\imgui_sdl.cpp" />
     <ClCompile Include="libs\imgui\imgui_widgets.cpp" />
-    <ClCompile Include="src\Game.cpp" />
-    <ClCompile Include="src\Logger.cpp" />
+    <ClCompile Include="src\Game\Game.cpp" />
+    <ClCompile Include="src\Logger\Logger.cpp" />
     <ClCompile Include="src\Main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
